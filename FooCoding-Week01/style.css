@@ -1,0 +1,166 @@
+*/ {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+main{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+h1{
+    font-family: 'Space mono', monospace;
+    font-size: 50px;
+    font-style: normal;
+    white-space: normal;
+    text-align: justify;
+}
+
+h2 {
+    font-family: 'Space Mono', monospace;
+    font-size: 40px;
+    text-align: center;
+   
+}
+
+
+h3 {
+    font-family: 'Space Mono', monospace;
+      
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+
+}
+
+p {
+    font-family: 'Montserrat';
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 15px;   
+}
+
+details {
+    font-family: 'Montserrat';
+}
+
+summary {
+    font-family: 'Space Mono' , monospace;
+}
+
+
+li {
+    font-family: 'Montserrat';
+    list-style-type: none;
+    font-size: 18px;    
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link {
+    color: #000;
+}
+  
+  a:visited {
+    color: purple;
+}
+
+  a:hover {
+    color: blue;
+}
+  
+  a:active {
+    color: blue;
+}
+
+img {
+    width: 300px;
+    border-style: solid;
+    border-radius: 250px;
+    border-color: #ffff;
+}
+
+hr {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.footer-styling {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 950px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    font-size: 30px;
+   
+}
+
+
+.top-name-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.logo-header{
+    width: 7%;
+   
+}
+
+
+.profile_picture {
+    margin: auto;
+    display: block;
+}
+
+.education-experience {
+    display: inline-flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: left;
+    padding: 15px;
+    width: 470px;
+
+}
+h3.education-experience {
+    font-size: 30px;
+}
+
+.site-building {
+    display: inline-flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: left;
+    padding: 15px;
+    width: 470px;
+
+}
+
+h3.site-building {
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
