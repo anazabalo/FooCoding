@@ -1,0 +1,28 @@
+/*Step 1.6*/
+
+body {
+  background-color: #ebecf0;
+  color: #3c4043;
+  font-family: 'roboto', sans-serif;
+  padding: 2rem;
+}
+
+p {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  color: #796a61;
+}
+
+h4 {
+  color: #a89a8b;
+  font-size: 18px;
+}
+
+h5 {
+  color: #cfc1b2;
+  font-size: 15px;
+}
